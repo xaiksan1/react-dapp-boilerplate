@@ -73,7 +73,7 @@
     "@material-ui/icons": "^3.0.1",
     "keymirror": "^0.1.1",
     "openzeppelin-solidity": "2.5.0",
-    "prop-types": "^15.6.2",
+    "prop-types": "^15.8.1",
     "react": "^16.5.2",
     "react-dnd": "^5.0.0",
     "react-dnd-html5-backend": "^5.0.1",
